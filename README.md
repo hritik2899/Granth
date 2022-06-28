@@ -31,11 +31,6 @@ A learning media app that enables teachers, students or anyone willing to learn 
 - AndroidX artifacts with Google Material Design components
 - Knife liberal(for rich text)
 
-### Team : Aergia
-**Members:**<br />
-1. [Poorvi Garg](https://github.com/POORVI111)
-2. [Radhika Gupta](https://github.com/radhika2312)
-
 ### To try hands on the project
 Either, just download the APK  and try it out.<br /> OR,<br />
 1. CLone the project using link: https://github.com/radhika2312/Grantha_Avishkar.git
