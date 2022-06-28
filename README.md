@@ -31,11 +31,7 @@ A learning media app that enables teachers, students or anyone willing to learn 
 - AndroidX artifacts with Google Material Design components
 - Knife liberal(for rich text)
 
-### To try hands on the project
-Either, just download the APK  and try it out.<br /> OR,<br />
-1. CLone the project using link: https://github.com/radhika2312/Grantha_Avishkar.git
-2. Import the Project in Android Studio
-3. Deploy the app to your android device and voila`... you are good to go!<br />
+
 ###### Login and user profile
 ![LOGIN](https://user-images.githubusercontent.com/68559217/97807546-7b50fd00-1c87-11eb-8761-8047f6c9842e.jpeg)
 ![PROFILE](https://user-images.githubusercontent.com/68559217/97807542-7ab86680-1c87-11eb-89f2-511d35638259.jpeg)<br />
@@ -45,8 +41,6 @@ Either, just download the APK  and try it out.<br /> OR,<br />
 ###### Notification and search
 ![NOTIFICATION](https://user-images.githubusercontent.com/68559217/97807435-b7379280-1c86-11eb-8ce5-43c18644f286.jpeg)
 ![SEARCH](https://user-images.githubusercontent.com/68559217/97807540-7a1fd000-1c87-11eb-8301-f0ce11f9fde4.jpeg)<br />
-###### Chat
-![CHAT](https://user-images.githubusercontent.com/68559217/97807677-1fd33f00-1c88-11eb-895f-28683e743704.jpeg)<br />
 ###### Admin Notification
 ![ADMIN NOTIFICATION](https://user-images.githubusercontent.com/68559217/97807541-7a1fd000-1c87-11eb-8fb9-68b003cc1faa.jpeg)
 
